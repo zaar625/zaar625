@@ -1,16 +1,24 @@
-### Hi there 👋
+### LEE SANG YOON - *@zaar* 
+***
 
-<!--
-**zaar625/zaar625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi guys!<br>I am a __*future frontend developer*__. I'm currently filling in my knowledge little by little.<br>The attraction of developers to me makes me thirst for learning! It's like looking at the wide sea!
+#### My value :four_leaf_clover:
+* I just don't want to grow up to be a developer who is good at development.<br> Everything in the world is connected. I want to become a developer who acts as a link. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/html-red?style=flat&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css-blue?style=flat&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/sass-pink?style=flat&logo=Sass&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-white?style=flat&logo=Notion&logoColor=black"/>
+<img src="https://img.shields.io/badge/firebase-white?style=flat&logo=firebase&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/React-lightblue?style=flat&logo=React&logoColor=white">
+<img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=Typescript&logoColor=white">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaar625&show_icons=true&theme=apprentice&hide=stars)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaar625&layout=compact)](https://github.com/zaar625/github-readme-stats)
