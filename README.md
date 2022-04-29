@@ -31,7 +31,7 @@ I just don't want to grow up to be a developer who is good at development.<br> E
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaar625&show_icons=true&theme=gruvbox&hide=stars)
 </a>  
  
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zaar625&repo=react-ecommerce)](https://github.com/zaar625/react-ecommerce)
   
 
   
