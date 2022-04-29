@@ -1,5 +1,6 @@
 ### LEE SANG YOON - *@zaar* 
 ***
+#### Intro
 
 Hi guys!<br>I am a __*future frontend developer*__. I'm currently filling in my knowledge little by little.<br>The attraction of developers to me makes me thirst for learning! It's like looking at the wide sea!
 #### My value :four_leaf_clover:
@@ -8,17 +9,37 @@ Hi guys!<br>I am a __*future frontend developer*__. I'm currently filling in my 
 
 
 
-
-<img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/html-red?style=flat&logo=HTML5&logoColor=white"/>
+#### Language and Tool 📊
+<p>
+  
+<img src="https://img.shields.io/badge/html-red?style=flat&logo=HTML5&logoColor=white"/><a/>
 <img src="https://img.shields.io/badge/css-blue?style=flat&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/sass-pink?style=flat&logo=Sass&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-white?style=flat&logo=Notion&logoColor=black"/>
-<img src="https://img.shields.io/badge/firebase-white?style=flat&logo=firebase&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white"/>
+</p>
+
+<p>
+  
 <img src="https://img.shields.io/badge/React-lightblue?style=flat&logo=React&logoColor=white">
 <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=Typescript&logoColor=white">
+ </p>
+<p>
+  
+<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/firebase-white?style=flat&logo=firebase&logoColor=yellow"/>
+</P>
+  
+#### study 📖
+<img src="https://img.shields.io/badge/Notion-white?style=flat&logo=Notion&logoColor=black"/>
 
+<a>
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaar625&show_icons=true&theme=apprentice&hide=stars)
+  </a>
+ 
+ <a>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaar625&layout=compact)](https://github.com/zaar625/github-readme-stats)
+</a>
+  
