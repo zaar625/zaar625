@@ -1,10 +1,10 @@
 ### LEE SANG YOON - *@zaar* 
 ***
-#### Intro
 
-Hi guys!<br>I am a __*future frontend developer*__. I'm currently filling in my knowledge little by little.<br>The attraction of developers to me makes me thirst for learning! It's like looking at the wide sea!
+
+Hi guys! 😊 <br>I am a __*future frontend developer*__. I'm currently filling in my knowledge little by little.<br>The attraction of developers to me makes me thirst for learning! It's like looking at the wide sea!
 #### My value :four_leaf_clover:
-* I just don't want to grow up to be a developer who is good at development.<br> Everything in the world is connected. I want to become a developer who acts as a link. 
+I just don't want to grow up to be a developer who is good at development.<br> Everything in the world is connected. I want to become a developer who acts as a link. 
 
 
 
@@ -28,11 +28,10 @@ Hi guys!<br>I am a __*future frontend developer*__. I'm currently filling in my 
 
 <a>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaar625&show_icons=true&theme=apprentice&hide=stars)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaar625&show_icons=true&theme=gruvbox&hide=stars)
 </a>  
  
- <a>
+
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaar625&layout=compact)](https://github.com/zaar625/github-readme-stats)
-</a>
+
   
