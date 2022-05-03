@@ -3,8 +3,11 @@
 
 
 Hi guys! 😊 <br>I am a __*future frontend developer*__. I'm currently filling in my knowledge little by little.<br>The attraction of developers to me makes me thirst for learning! It's like looking at the wide sea!
+****
+
 #### My value :four_leaf_clover:
 I just don't want to grow up to be a developer who is good at development.<br> Everything in the world is connected. I want to become a developer who acts as a link. 
+
 
 
 
