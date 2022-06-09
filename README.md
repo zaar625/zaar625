@@ -2,7 +2,7 @@
 ***
 
 
-Hi guys! 😊 <br>I am a __*future frontend developer*__. I'm currently filling in my knowledge little by little.<br>The attraction of developers to me makes me thirst for learning! It's like looking at the wide sea!
+Hi guys! 😊 <br> I'm currently filling in my knowledge little by little.<br>The attraction of developers to me makes me thirst for learning! It's like looking at the wide sea!
 ****
 
 #### My value :four_leaf_clover:
