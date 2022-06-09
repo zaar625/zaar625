@@ -25,11 +25,7 @@ I just don't want to grow up to be a developer who is good at development.<br> E
 <img src="https://img.shields.io/badge/firebase-white?style=flat&logo=firebase&logoColor=yellow"/>
 </P>
   
-#### Study (TIL) 📖 
 
-<a href="https://wary-spy-d47.notion.site/6ee88740c71e4074937a7f49c43540c2?v=1d3ae83fd37948268377f9852ad19a50">
-<img src="https://img.shields.io/badge/Notion-white?style=flat&logo=Notion&logoColor=black"/>
-</a>
 
 <a>
   
