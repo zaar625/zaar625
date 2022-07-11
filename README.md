@@ -9,6 +9,7 @@
 <img src="https://img.shields.io/badge/html-red?style=flat&logo=HTML5&logoColor=white"/><a/>
 <img src="https://img.shields.io/badge/css-blue?style=flat&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/sass-pink?style=flat&logo=Sass&logoColor=white"/>
+<img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat&logo=styledcomponents&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-lightblue?style=flat&logo=React&logoColor=white">
 <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white">
@@ -17,7 +18,9 @@
 <img src="https://img.shields.io/badge/firebase-white?style=flat&logo=firebase&logoColor=yellow"/>
 </P>
   
-
+#### Studying & Target :running:
+<p>- js deep dive</p>
+<p>- react native</p>
 
 <a>
   
