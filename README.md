@@ -19,7 +19,8 @@
 </P>
   
 #### Studying & Target :running:
-<p>- js deep dive</p>
+<p>- JS deep dive</p>
+<p>- Jest</p>
 <p>- react native</p>
 
 <a>
