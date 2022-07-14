@@ -30,4 +30,4 @@
 
 
  #### MyTIL :bookmark_tabs: 
- <a href="https://www.notion.so/6ee88740c71e4074937a7f49c43540c2?v=1d3ae83fd37948268377f9852ad19a50">노션으로 가기 </a>
+ <a href="https://www.notion.so/6ee88740c71e4074937a7f49c43540c2?v=1d3ae83fd37948268377f9852ad19a50">노션으로   바로가기</a>
