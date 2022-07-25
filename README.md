@@ -20,6 +20,7 @@
   
 #### Studying & Target :running:
 <p>- JS deep dive</p>
+<p>- Next.js
 <p>- Jest</p>
 <p>- react native</p>
 
