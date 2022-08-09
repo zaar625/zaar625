@@ -10,8 +10,10 @@
 <img src="https://img.shields.io/badge/css-blue?style=flat&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/sass-pink?style=flat&logo=Sass&logoColor=white"/>
 <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat&logo=styledcomponents&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=TailwindCSS&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-lightblue?style=flat&logo=React&logoColor=white">
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white">
 <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white">
 <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=Typescript&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
