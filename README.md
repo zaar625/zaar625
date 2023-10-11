@@ -11,7 +11,11 @@ Hello :open_hands:. I'm a developer looking to improve the user experience.
 <img src="https://img.shields.io/badge/React Native-0088CC?style=flat&logo=createreactapp&logoColor=white">
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white">
 <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=Typescript&logoColor=white"><br>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white">
+<img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=recoil&logoColor=white"><br>
+  
 <img src="https://img.shields.io/badge/Google firebase-white?style=flat&logo=firebase&logoColor=yellow"/><br>
+<img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=reactquery&logoColor=yellow"/><br>
   
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
 </P>
