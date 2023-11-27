@@ -27,7 +27,7 @@ Hello :open_hands:. I'm a developer looking to improve the user experience.
 </p>
   
 #### Studying
-Functional Programming, Jest Testing, 
+Functional Programming, Jest Testing, nodeJs(Fr.nestJS)
 
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaar625&show_icons=true&theme=gruvbox&hide=stars)
